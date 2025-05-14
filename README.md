@@ -38,11 +38,11 @@ A sleek frontend tool using the TinyURL API to generate short links with QR code
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshk727&show_icons=true&theme=default)
-[![GitHub Streak](https://streak-stats.demolab.com?user=niteshk727&theme=default)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=niteshk727&theme=default)](https://git.io/streak-stats)
 
 ---
 
 ## 💬 Connect with Me
 - [LinkedIn](https://linkedin.com/in/niteshk727)
-- [Portfolio](https://your-portfolio-link.com)
+- [Portfolio](https://niteshk727.github.io/portfolio/)
 - [Email](mailto:niteshkumar0418@gmail.com)
