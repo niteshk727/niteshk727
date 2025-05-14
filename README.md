@@ -20,11 +20,17 @@ I'm a Master's student in Machine Learning & Artificial Intelligence with a stro
 
 ## 🚀 Projects
 
-### [Smart Resume Analyzer](https://niteshk727.github.io/smart-resume-analyzer)
-An NLP-based tool that analyzes resumes against job descriptions to rank candidates on relevance. Ideal for HR tech applications and streamlining recruitment.
+### 🛠️ Utility Projects
+- [URL Shortener with QR Support](https://niteshk727.github.io/YourShortURL/)  
+  A sleek frontend tool using the TinyURL API to generate short links with QR code redirection support — perfect for mobile-friendly sharing.
 
-### [URL Shortener with QR Support](https://niteshk727.github.io/YourShortURL)
-A sleek frontend tool using the TinyURL API to generate short links with QR code redirection support — perfect for mobile-friendly sharing.
+### 🤖 ML Projects
+- [Smart Resume Analyzer](https://niteshk727.github.io/smart-resume-analyzer/)  
+  An NLP-based tool that analyzes resumes against job descriptions to rank candidates on relevance. Ideal for HR tech applications and streamlining recruitment.
+
+### 📝 Simple Projects
+- [Omnifood](https://niteshk727.github.io/omnifood/)  
+  An NLP-based tool that analyzes resumes against job descriptions to rank candidates on relevance. Ideal for HR tech applications and streamlining recruitment.
 
 ---
 
@@ -38,7 +44,7 @@ A sleek frontend tool using the TinyURL API to generate short links with QR code
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshk727&show_icons=true&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com?user=niteshk727&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=niteshk727&theme=dark)](https://git.io/streak-stats)
 
 ---
 
