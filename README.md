@@ -20,10 +20,10 @@ I'm a Master's student in Machine Learning & Artificial Intelligence with a stro
 
 ## 🚀 Projects
 
-### [Smart Resume Analyzer](https://github.com/niteshk727/smart-resume-analyzer)
+### [Smart Resume Analyzer](https://niteshk727.github.io/smart-resume-analyzer)
 An NLP-based tool that analyzes resumes against job descriptions to rank candidates on relevance. Ideal for HR tech applications and streamlining recruitment.
 
-### [URL Shortener with QR Support](https://yourusername.github.io/shortener-project)
+### [URL Shortener with QR Support](https://niteshk727.github.io/YourShortURL)
 A sleek frontend tool using the TinyURL API to generate short links with QR code redirection support — perfect for mobile-friendly sharing.
 
 ---
